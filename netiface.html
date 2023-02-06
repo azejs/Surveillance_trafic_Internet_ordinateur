@@ -1,0 +1,37 @@
+<html>
+  <head>
+        <style type="text/css">
+
+        body{
+            background:#ebeaf0;
+            width:210mm;
+            background: white;
+            margin-left: 20% ;
+            box-shadow: 0 0 0.5cm rgba(235, 169, 169, 0.5);     
+            margin-bottom: 0.5cm;      
+            height: 28cm;  
+            }
+        @media print {   
+        body{      
+            margin:0px;    
+            height: calc(280mm - 25.4mm);  
+             }
+           }
+        h3{
+            padding: 1em;
+            color: rgb(226, 116, 13);
+          }
+          .img{
+            position:relative;
+            padding: 1em;
+        }
+        </style> 
+    <title>Trafic réseau sur ens33</title>
+
+  </head>
+  <body>
+    <img src='netiface.png' class="img"/>
+    <h3>L’image indique le nombre d’octets reçus et envoyés par minute et couvrira
+      maximum 1h de surveillance</h3>
+  </body>
+</html>
