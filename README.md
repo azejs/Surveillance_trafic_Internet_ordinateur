@@ -32,5 +32,5 @@ j'ai crée une boucle 'for' pour collecter des statistiques sur le trafic résea
 
 
 ### `<<La philosophie de Linux est  Rire face à un danger . Oups. Ce n'est pas le bon  Faites-le vous-même>> `. 
-### `Nom: EL-MAMOUNI | Prénom: Azeddine  N:3°ISI`
+
  
